@@ -1,5 +1,5 @@
 {
     "$schema": "https://openapi.vercel.sh/vercel.json",
-    "installCommand": "npm install",
+    "installCommand": "npm config set //npm.pkg.github.com/:_authToken $NPM_TOKEN && npm install",
     "buildCommand": "npm run build"
   }
