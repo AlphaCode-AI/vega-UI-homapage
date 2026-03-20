@@ -1,0 +1,98 @@
+/* [project]/alphaCode-designSystem/dist/styles.css [app-client] (css) */
+:root {
+  --primary: 20 100% 50%;
+  --primary-foreground: 0 0% 100%;
+  --primary-hover: 21 100% 44%;
+  --primary-active: 21 100% 39%;
+  --background: 0 0% 100%;
+  --foreground: 0 0% 2%;
+  --secondary: 0 0% 97%;
+  --secondary-foreground: 0 0% 33%;
+  --muted: 0 0% 93%;
+  --muted-foreground: 0 0% 51%;
+  --accent: 0 0% 93%;
+  --accent-foreground: 0 0% 2%;
+  --destructive: 0 100% 50%;
+  --destructive-foreground: 0 0% 100%;
+  --success: 145 100% 38%;
+  --success-foreground: 0 0% 100%;
+  --warning: 28 100% 52%;
+  --warning-foreground: 0 0% 100%;
+  --info: 218 100% 50%;
+  --info-foreground: 0 0% 100%;
+  --pending: 271 100% 59%;
+  --pending-foreground: 0 0% 100%;
+  --border: 0 0% 85%;
+  --input: 0 0% 85%;
+  --ring: 20 100% 50%;
+  --card: 0 0% 100%;
+  --card-foreground: 0 0% 2%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 0 0% 2%;
+}
+
+.dark {
+  --background: 0 0% 7%;
+  --foreground: 0 0% 95%;
+  --primary: 21 100% 56%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 0 0% 13%;
+  --secondary-foreground: 0 0% 80%;
+  --border: 0 0% 20%;
+  --input: 0 0% 20%;
+  --ring: 21 100% 56%;
+  --card: 0 0% 9%;
+  --card-foreground: 0 0% 95%;
+  --popover: 0 0% 8%;
+  --popover-foreground: 0 0% 95%;
+}
+
+* {
+  border-color: hsl(var(--border));
+  box-sizing: border-box;
+}
+
+html {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+  --lightningcss-light: initial;
+  --lightningcss-dark: ;
+  color-scheme: light;
+}
+
+html.dark {
+  --lightningcss-light: ;
+  --lightningcss-dark: initial;
+  color-scheme: dark;
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-feature-settings: "rlig" 1, "calt" 1, "ss01" 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-family: Pretendard Variable, Pretendard, sans-serif;
+}
+
+:focus-visible {
+  box-shadow: 0 0 0 2px hsl(var(--background)), 0 0 0 4px hsl(var(--ring));
+  outline: none;
+}
+
+.break-korean {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/*# sourceMappingURL=alphaCode-designSystem_dist_styles_css_bad6b30c._.single.css.map*/

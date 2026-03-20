@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/ac01-jsmoon/Desktop/my-app/designSystem/vega-homepage/app/%28page%29/layout.tsx"],"sourcesContent":["export default function SubPageLayout({ children }: { children: React.ReactNode }) {\n    return (\n      <div className=\"flex w-full\">\n        {/* 페이지 콘텐츠 */}\n        <article className=\"flex-1 min-w-0\">\n          {children}\n        </article>\n      </div>\n    );\n  }"],"names":[],"mappings":";;;;;;AAAe,SAAS,cAAc,EAAE,QAAQ,EAAiC;IAC7E,qBACE,qXAAC;QAAI,WAAU;kBAEb,cAAA,qXAAC;YAAQ,WAAU;sBAChB;;;;;;;;;;;AAIT"}}]
+}

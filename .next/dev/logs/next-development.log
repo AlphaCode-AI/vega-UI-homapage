@@ -1,0 +1,178 @@
+[00:00:00.973] Server  LOG     ✓ Ready in 683ms
+[00:00:04.960] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.152] Browser WARN    Image with src "/vega_logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:20:12.446] Server  ERROR   ⨯ ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:20:12.455] Server  ERROR   ⨯ ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:20:12.463] Server  ERROR   ⨯ ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:20:12.472] Server  ERROR   ⨯ ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:20:12.522] Server  ERROR   ⨯ ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:20:12.532] Server  ERROR   ⨯ ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:20:12.542] Server  ERROR   ⨯ ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:20:12.550] Server  LOG     ✓ Compiled in 1543ms
+[02:20:13.320] Browser ERROR   ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[02:20:13.320] Browser ERROR   ./vega-homepage/app/globals.css:3:2
+Module not found: Can't resolve '@alphacode/design-system/styles.css'
+  1 | @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+  2 |
+> 3 | @import "@alphacode/design-system/styles.css";
+    |  ^
+  4 |
+  5 | *, ::before, ::after{
+  6 |   --tw-border-spacing-x: 0;
+
+Import trace:
+  Client Component Browser:
+    ./vega-homepage/app/globals.css [Client Component Browser]
+    ./vega-homepage/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[02:20:13.546] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:20:19.900] Browser WARN    Image with src "/vega_logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
